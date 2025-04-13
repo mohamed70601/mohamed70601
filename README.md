@@ -2,15 +2,15 @@
 
 <br />
 
-<div style="position: relative;" >
+<p align="center">
+  --BEGIN SIGNATURE--<br />
+  sgnE93c2b0b7e3b3b7c1b4b5a7e3b4b2b5b4b3b4b5a7e3b4b5a7e3b4b5a7e3b4<br />
+  --END SIGNATURE--
+</p>
 
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); text-align: center; color: white; font-family: 'Courier New', monospace; font-size: 18px;">
-    <p>--BEGIN SIGNATURE--</p>
-    <p>sgnE93c2b0b7e3b3b7c1b4b5a7e3b4b2b5b4b3b4b5a7e3b4b5a7e3b4b5a7e3b4</p>
-    <p>--END SIGNATURE--</p>
-  </div>
+<p align="center">
   <img src="https://raw.githubusercontent.com/mohamed70601/mohamed70601/main/eye.gif" alt="GIF" style="width: 100%; border-radius: 5px;">
-</div>
+</p>
 
 <br />
 
