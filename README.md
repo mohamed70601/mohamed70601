@@ -2,7 +2,7 @@
 
 <br><br>
 <p align="center">
-  <em>These repositories and all within them are made of words.</em>
+  <h4 align="center"><em>These repositories and all within them are made of words.</em></h4>
 </p>
 
 <br><br>
